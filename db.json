@@ -1,581 +1,15 @@
 {
-    "totalCount": 22,
+    "totalCount": 5,
     "payload":
     {
         "documents":
         [],
         "equipments":
-        [
-            {
-                "uniqueIdentifier": "hydra.x.453116511-0.object-extended.DkeiJib2jYkOu3NaXscD3K5KtjqrNm2LTUeWku02gZvPAgHG_KfRpuMmVEGB1RUb",
-                "entityCommon":
-                {
-                    "symbolCode": "SHGPEVAC--MPRSG",
-                    "affiliation": "H",
-                    "description": "Sample equipment generated for testing.",
-                    "displayName": "BMP 2 IFV",
-                    "geoLocation":
-                    {
-                        "geometry":
-                        {
-                            "point":
-                            {
-                                "coordinates":
-                                [
-                                    124.235312,
-                                    6.980777
-                                ]
-                            }
-                        },
-                        "timeOfObservation": "2026-04-13T16:30:00Z"
-                    },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>",
-                    "timeMostRecentObservation": "2026-04-13T16:30:00Z"
-                },
-                "activity": "Conducting reconnaissance",
-                "condition": "OPERATIONAL",
-                "entityType": "EQUIPMENT",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "trackNumber": "TRK-12493",
-                "nomenclature": "ACV,TRACK,AMPHIB,BMP-2K",
-                "quantityOnHand": 8,
-                "operationalStatus": "OPR",
-                "orientationAzimuth": 66,
-                "quantityAuthorized": 9,
-                "quantityOperational": 0,
-                "quantityDamagedRollup": 3
-            },
-            {
-                "uniqueIdentifier": "hydra.x.811976846-0.object-extended.5kHtSBjNVAfOFje4Wl7dratDEsoht6pKN94rg1Sav6OfcbOBIr1Yxe_XTM8GxR3t",
-                "entityCommon":
-                {
-                    "symbolCode": "SHGPEVATM-MQRSG",
-                    "affiliation": "H",
-                    "description": "Sample equipment generated for testing.",
-                    "displayName": "TANK,MBT,125MM,T-90A",
-                    "geoLocation":
-                    {
-                        "geometry":
-                        {
-                            "point":
-                            {
-                                "coordinates":
-                                [
-                                    124.24963,
-                                    6.526926
-                                ]
-                            }
-                        },
-                        "timeOfObservation": "2026-04-13T16:30:00Z"
-                    },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>"
-                },
-                "activity": "Conducting offensive operations",
-                "condition": "GOOD",
-                "entityType": "EQUIPMENT",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "trackNumber": "TRK-58788",
-                "nomenclature": "TANK,MBT,125MM,T-90A",
-                "quantityOnHand": 10,
-                "operationalStatus": "OPR",
-                "orientationAzimuth": 209,
-                "quantityAuthorized": 10,
-                "quantityOperational": 9,
-                "quantityDamagedRollup": 0
-            },
-            {
-                "uniqueIdentifier": "hydra.x.755031364-0.object-extended.ZeFfeJs15c3txsKiek85a9gEUH6I7224q0ZdXav2LOODUerk2vXnAFCBp0g01g-E",
-                "entityCommon":
-                {
-                    "symbolCode": "SHGPEWHMS-MQRSG",
-                    "affiliation": "H",
-                    "description": "Sample equipment generated for testing.",
-                    "displayName": "HOW,152MM,SP,2S19",
-                    "geoLocation":
-                    {
-                        "geometry":
-                        {
-                            "point":
-                            {
-                                "coordinates":
-                                [
-                                    124.684953,
-                                    6.399862
-                                ]
-                            }
-                        },
-                        "timeOfObservation": "2026-04-13T16:30:00Z"
-                    },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>"
-                },
-                "activity": "Offensive fire support",
-                "condition": "FAIR",
-                "entityType": "EQUIPMENT",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "trackNumber": "TRK-72709",
-                "nomenclature": "HOW,152MM,SP,2S19",
-                "operationalStatus": "OPR",
-                "orientationAzimuth": 261,
-                "quantityAuthorized": 3,
-                "quantityOperational": 3
-            },
-            {
-                "uniqueIdentifier": "hydra.x.483889305-0.object-extended.Fa7UsindWGdFRn724zSWFgsfUQasgoYbyzduQZXFcQOyUW3908n3DP6f9boxnas9",
-                "entityCommon":
-                {
-                    "symbolCode": "IUGPSRF-----RSE",
-                    "affiliation": "U",
-                    "description": "Sample equipment generated for testing.",
-                    "displayName": "RADAR,FC,WHIFF FIRE",
-                    "geoLocation":
-                    {
-                        "geometry":
-                        {
-                            "point":
-                            {
-                                "coordinates":
-                                [
-                                    124.618182,
-                                    6.14462
-                                ]
-                            }
-                        },
-                        "timeOfObservation": "2026-04-13T16:30:00Z"
-                    },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>"
-                },
-                "activity": "FC",
-                "condition": "POOR",
-                "entityType": "EQUIPMENT",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "trackNumber": "TRK-51794",
-                "nomenclature": "RADAR,FC,WHIFF FIRE",
-                "equipmentCode": "XDAHX",
-                "radarProfiles":
-                [
-                    {
-                        "elnot": "EL001",
-                        "emitterDesignatorName": "FCRDR"
-                    }
-                ],
-                "quantityOnHand": 2,
-                "nomenclatureCode": "002.034.071.000.000.000.000.000",
-                "operationalStatus": "FULLY_CAPABLE",
-                "orientationAzimuth": 195,
-                "quantityAuthorized": 2,
-                "quantityOperational": 0,
-                "quantityDamagedRollup": 0
-            },
-            {
-                "uniqueIdentifier": "hydra.x.292666233-0.object-extended.KC7Gd0yJA-2HHJ4knYeG7psRa0bsRYHSsziscquDz1wrgADBF3H-cPxExZ0SBcUz",
-                "entityCommon":
-                {
-                    "symbolCode": "SUSPCLCC----RSN",
-                    "affiliation": "U",
-                    "description": "Sample equipment generated for testing.",
-                    "displayName": "FFL,FUTURE,NFI (PLACEHOLDER)",
-                    "geoLocation":
-                    {
-                        "geometry":
-                        {
-                            "point":
-                            {
-                                "coordinates":
-                                [
-                                    125.013629,
-                                    6.251721
-                                ]
-                            }
-                        },
-                        "timeOfObservation": "2026-04-13T16:30:00Z"
-                    },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>"
-                },
-                "activity": "Patrolling",
-                "condition": "DAMAGED",
-                "entityType": "EQUIPMENT",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "trackNumber": "TRK-74942",
-                "nomenclature": "FFL,FUTURE,NFI (PLACEHOLDER)",
-                "operationalStatus": "FULLY_CAPABLE",
-                "orientationAzimuth": 221,
-                "quantityAuthorized": 7,
-                "quantityOperational": 5
-            }
-        ],
+        [],
         "events":
-        [
-            {
-                "uniqueIdentifier": "hydra.x.613928757-0.object-extended.rLFsUKFM2dTl3nMwjmVaHPnufpBTk2FOgJ8SCL8r1xh3OpKXpPIttwQqLN1AuDd3",
-                "entityCommon":
-                {
-                    "symbolCode": "OHVPEI------RSG",
-                    "affiliation": "H",
-                    "description": "Sample event generated for testing.",
-                    "displayName": "IED STRIKE 2025-02-26",
-                    "geoLocation":
-                    {
-                        "geometry":
-                        {
-                            "point":
-                            {
-                                "coordinates":
-                                [
-                                    125.120854,
-                                    6.802935
-                                ]
-                            }
-                        },
-                        "timeOfObservation": "2026-04-20T16:34:08Z"
-                    },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>",
-                    "timeMostRecentObservation": "2026-04-20T16:34:08Z"
-                },
-                "eventID": "EVT-12457",
-                "eventName": "IED STRIKE 2025-02-26",
-                "eventType": "IED Explosion",
-                "entityType": "EVENT",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "timeEventEnd": "2025-02-26T20:27:00Z",
-                "timeEventBegin": "2025-02-26T19:48:00Z",
-                "numberOfParticipants": 30
-            },
-            {
-                "uniqueIdentifier": "hydra.x.412236320-0.object-extended.5aCbvjO3mWBz0WdECvaoEWA98TXmzspiIVwHOw3sy7hihJw2ts8U9w3zynqLN3bW",
-                "entityCommon":
-                {
-                    "symbolCode": "ENFPI-----H----",
-                    "affiliation": "N",
-                    "description": "Sample event generated for testing.",
-                    "displayName": "GATHERING 2026-10-28",
-                    "geoLocation":
-                    {
-                        "geometry":
-                        {
-                            "point":
-                            {
-                                "coordinates":
-                                [
-                                    124.230998,
-                                    6.244904
-                                ]
-                            }
-                        },
-                        "timeOfObservation": "2026-04-20T16:34:08Z"
-                    },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>"
-                },
-                "eventID": "EVT-95238",
-                "eventName": "GATHERING 2026-10-28",
-                "eventType": "Public Service Event",
-                "entityType": "EVENT",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "timeEventEnd": "2026-10-28T23:45:00Z",
-                "timeEventBegin": "2026-10-28T23:00:00Z",
-                "numberOfParticipants": 55
-            },
-            {
-                "uniqueIdentifier": "hydra.x.412967108-0.object-extended.p6nEpZPWTBepKnYNfILnQLSNugPUwUjKSjt7FZtRw2khuDXmciUTMNqEadZ2GXbr",
-                "entityCommon":
-                {
-                    "symbolCode": "SHGPEXI---MO---",
-                    "affiliation": "H",
-                    "description": "Sample event generated for testing.",
-                    "displayName": "VBIED 2025-01-26",
-                    "geoLocation":
-                    {
-                        "geometry":
-                        {
-                            "point":
-                            {
-                                "coordinates":
-                                [
-                                    126.285965,
-                                    7.258303
-                                ]
-                            }
-                        },
-                        "timeOfObservation": "2026-04-20T16:34:08Z"
-                    },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>"
-                },
-                "eventID": "EVT-18792",
-                "eventName": "VBIED 2025-01-26",
-                "eventType": "VBIED",
-                "entityType": "EVENT",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "timeEventEnd": "2025-01-26T05:52:00Z",
-                "timeEventBegin": "2025-01-26T05:52:00Z",
-                "numberOfParticipants": 2
-            },
-            {
-                "uniqueIdentifier": "hydra.x.404875994-0.object-extended.lOmhLvymmrzIlXvvAbjXsAHJ8ushnczpm9OmcIp0sqqBGlw8Q-H3BBbJtiCKIzzE",
-                "entityCommon":
-                {
-                    "symbolCode": "OUOP-----------",
-                    "affiliation": "H",
-                    "description": "Sample event generated for testing.",
-                    "displayName": "AMBUSH 2025-09-17",
-                    "geoLocation":
-                    {
-                        "geometry":
-                        {
-                            "point":
-                            {
-                                "coordinates":
-                                [
-                                    125.920509,
-                                    7.361167
-                                ]
-                            }
-                        },
-                        "timeOfObservation": "2026-04-20T16:34:08Z"
-                    },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>"
-                },
-                "eventID": "EVT-37724",
-                "eventName": "AMBUSH 2025-09-17",
-                "eventType": "Ambush",
-                "entityType": "EVENT",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "timeEventEnd": "2025-09-17T18:54:00Z",
-                "timeEventBegin": "2025-09-17T17:22:00Z",
-                "numberOfParticipants": 4
-            },
-            {
-                "uniqueIdentifier": "hydra.x.843554762-0.object-extended.UyYATpOvo1QH2ipdAgr6fSfU-n-h4351_1d77S2Ous0qk2oBb13WeL3Gilvjx_Ws",
-                "entityCommon":
-                {
-                    "symbolCode": "ONIPM----------",
-                    "affiliation": "N",
-                    "description": "Sample event generated for testing.",
-                    "displayName": "MEETING 2026-12-27",
-                    "geoLocation":
-                    {
-                        "geometry":
-                        {
-                            "point":
-                            {
-                                "coordinates":
-                                [
-                                    125.211074,
-                                    7.497989
-                                ]
-                            }
-                        },
-                        "timeOfObservation": "2026-04-20T16:34:08Z"
-                    },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>"
-                },
-                "eventID": "EVT-45691",
-                "eventName": "MEETING 2026-12-27",
-                "eventType": "Meeting",
-                "entityType": "EVENT",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "timeEventEnd": "2026-12-27T17:55:00Z",
-                "timeEventBegin": "2026-12-27T09:05:00Z",
-                "numberOfParticipants": 14
-            }
-        ],
+        [],
         "facilities":
-        [
-            {
-                "uniqueIdentifier": "hydra.x.873321930-0.object-extended.mQ_1SzVR3I0S_c6SM4rUvXyCPWWDLWkQLKD4j36SdWx3haSdNEZ6SkoOe6cMG7RN",
-                "entityCommon":
-                {
-                    "symbolCode": "EHOPDK----H-RSG",
-                    "affiliation": "H",
-                    "description": "Sample facility generated for testing.",
-                    "displayName": "Detention Facility Delta",
-                    "geoLocation":
-                    {
-                        "geometry":
-                        {
-                            "point":
-                            {
-                                "coordinates":
-                                [
-                                    125.092741,
-                                    6.391719
-                                ]
-                            }
-                        },
-                        "timeOfObservation": "2026-04-13T16:30:00Z"
-                    },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>"
-                },
-                "activity": "Housing HVT detainees",
-                "capacity": "430",
-                "condition": "GOOD",
-                "entityType": "FACILITY",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "categoryCode": "77500",
-                "facilityCode": "005.007.002.001.002.000.000.000",
-                "facilityName": "Detention Facility Delta",
-                "facilityType": "GOVERNMENT DETENTION FACILITIES",
-                "operationalStatus": "OPR",
-                "orientationAzimuth": 106
-            },
-            {
-                "uniqueIdentifier": "hydra.x.336419510-0.object-extended.d-ByeUzmBBXSsqtJIOjX44MoqU27ZCy9UIkjgTbxo7unENAJB_bA1HIzW79xplWp",
-                "entityCommon":
-                {
-                    "allegiance": "SZ",
-                    "symbolCode": "SNGPIG----H-SZG",
-                    "affiliation": "N",
-                    "description": "Sample facility generated for testing.",
-                    "displayName": "Diplomatic Offices, Consulate",
-                    "geoLocation":
-                    {
-                        "geometry":
-                        {
-                            "point":
-                            {
-                                "coordinates":
-                                [
-                                    125.392036,
-                                    6.99648
-                                ]
-                            }
-                        },
-                        "timeOfObservation": "2026-04-13T16:30:00Z"
-                    },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>",
-                    "timeMostRecentObservation": "2026-04-13T16:30:00Z"
-                },
-                "capacity": "184",
-                "entityType": "FACILITY",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "facilityCode": "005.007.003.003.001.000.000.000",
-                "facilityName": "Diplomatic Offices",
-                "facilityType": "Diplomatic Offices, Honorary Consulate",
-                "operationalStatus": "OPR",
-                "orientationAzimuth": 100
-            },
-            {
-                "uniqueIdentifier": "hydra.x.877536958-0.object-extended.EnDgrwJlWKnEVweY0uXhL_Zla9Y-a2ICyUrKyQHaq0zICpyHnbiuBT-sLhilioXy",
-                "entityCommon":
-                {
-                    "symbolCode": "SNGPIG----H----",
-                    "affiliation": "H",
-                    "description": "Sample facility generated for testing.",
-                    "displayName": "BLDG 5000",
-                    "geoLocation":
-                    {
-                        "geometry":
-                        {
-                            "point":
-                            {
-                                "coordinates":
-                                [
-                                    124.274214,
-                                    6.415787
-                                ]
-                            }
-                        },
-                        "timeOfObservation": "2026-04-13T16:30:00Z"
-                    },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>"
-                },
-                "capacity": "424",
-                "condition": "Destroyed",
-                "entityType": "FACILITY",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "facilityCode": "005.007.002.003.001.000.000.000",
-                "facilityName": "BLDG 5000",
-                "facilityType": "Govt Ministries, Bodies, National LVL",
-                "operationalStatus": "RD4"
-            },
-            {
-                "uniqueIdentifier": "hydra.x.998676214-0.object-extended.3G968nR2N1vbrRqvhMVHbMj14yDwllc1O5nBtQV84Ez2QeFTgzT5hf6WJEvbTiQQ",
-                "entityCommon":
-                {
-                    "symbolCode": "SUGPI-----H-U--",
-                    "affiliation": "H",
-                    "description": "Sample facility generated for testing.",
-                    "displayName": "Checkpoint Alpha",
-                    "geoLocation":
-                    {
-                        "geometry":
-                        {
-                            "point":
-                            {
-                                "coordinates":
-                                [
-                                    124.150192,
-                                    6.471102
-                                ]
-                            }
-                        },
-                        "timeOfObservation": "2026-04-13T16:30:00Z"
-                    },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>"
-                },
-                "capacity": "100",
-                "condition": "UNKNOWN",
-                "entityType": "FACILITY",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "facilityCode": "005.000.000.000.000.000.000.000",
-                "facilityType": "Installation, General",
-                "operationalStatus": "OPR",
-                "orientationAzimuth": 176
-            },
-            {
-                "uniqueIdentifier": "hydra.x.729298917-0.object-extended.It1bS7zfc6MkCXrfc6pDl4VRAKoKgxqCnDtyw3WSXCBRbJYqp4rP_eYlwmY6-QHM",
-                "entityCommon":
-                {
-                    "symbolCode": "SHGPIMM---H-U--",
-                    "affiliation": "H",
-                    "description": "Sample facility generated for testing.",
-                    "displayName": "Impact Area",
-                    "geoLocation":
-                    {
-                        "geometry":
-                        {
-                            "point":
-                            {
-                                "coordinates":
-                                [
-                                    124.757846,
-                                    7.207366
-                                ]
-                            }
-                        },
-                        "timeOfObservation": "2026-04-13T16:30:00Z"
-                    },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>"
-                },
-                "condition": "POOR",
-                "entityType": "FACILITY",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "categoryCode": "70740",
-                "facilityCode": "005.008.004.006.010.000.000.000",
-                "facilityName": "Impact Area",
-                "facilityType": "Sub-Launched MSL Impact Area, Unknown",
-                "targetIdentifier":
-                {
-                    "targetID": "TER",
-                    "targetIDSystem": "USMTF Table 20A"
-                },
-                "operationalStatus": "RD3",
-                "orientationAzimuth": 272
-            }
-        ],
+        [],
         "networks":
         [],
         "persons":
@@ -590,12 +24,15 @@
                 "uniqueIdentifier": "hydra.x.251602636-0.08lBC3dhlJZctUjZtJj8JFk2wS84OieXbsgTGMsLBENjB1N2UjhwMNHqK2pZ0aJe",
                 "entityCommon":
                 {
-                    "symbolCode": "SHGPUCIZ---IRSG",
+                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>",
                     "affiliation": "H",
+                    "symbolCode": "SHGPUCIZ---IRSG",
+                    "timeMostRecentObservation": "2026-04-13T16:30:00Z",
+                    "symbolCodeVersion": "C",
                     "description": "Sample unit generated for testing.",
-                    "displayName": "12 MECH IFV DIV",
                     "geoLocation":
                     {
+                        "timeOfObservation": "2026-04-13T16:30:00Z",
                         "geometry":
                         {
                             "point":
@@ -606,19 +43,11 @@
                                     6.673976
                                 ]
                             }
-                        },
-                        "timeOfObservation": "2026-04-13T16:30:00Z"
+                        }
                     },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>",
-                    "timeMostRecentObservation": "2026-04-13T16:30:00Z"
+                    "displayName": "12 MECH IFV DIV"
                 },
-                "activity": "Conducting defense-in-depth operations.",
                 "entityType": "UNIT",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "trackNumber": "TRK-42715",
-                "currentStrength": 94,
-                "operationalStatus": "OPR",
                 "unitIdentification":
                 {
                     "unitName": "12 MECHINF DIV",
@@ -626,18 +55,24 @@
                     "unitEchelon": "DIV",
                     "unitOrgType": "MECHINF"
                 },
-                "combatEffectiveness": 81
+                "currentStrength": 94,
+                "combatEffectiveness": 81,
+                "operationalStatus": "OPR",
+                "activity": "Conducting defense-in-depth operations.",
+                "trackNumber": "TRK-42715"
             },
             {
                 "uniqueIdentifier": "hydra.x.200492875-0.eifvU2yE-oG2zHLKiLrt9E529fW-mPr1NMXZrRnc8jDqvNVFZd5EsnqnOwq1IStg",
                 "entityCommon":
                 {
-                    "symbolCode": "SHGPUCATM--HRSG",
+                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>",
                     "affiliation": "H",
+                    "symbolCode": "SHGPUCATM--HRSG",
+                    "symbolCodeVersion": "C",
                     "description": "Sample unit generated for testing.",
-                    "displayName": "124 TANK BDE",
                     "geoLocation":
                     {
+                        "timeOfObservation": "2026-04-13T16:30:00Z",
                         "geometry":
                         {
                             "point":
@@ -648,18 +83,11 @@
                                     7.312001
                                 ]
                             }
-                        },
-                        "timeOfObservation": "2026-04-13T16:30:00Z"
+                        }
                     },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>"
+                    "displayName": "124 TANK BDE"
                 },
-                "activity": "Conducting maintenance",
                 "entityType": "UNIT",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "trackNumber": "TRK-58768",
-                "currentStrength": 74,
-                "operationalStatus": "RD3",
                 "unitIdentification":
                 {
                     "unitName": "124 ARMOR(M) BDE",
@@ -667,18 +95,24 @@
                     "unitEchelon": "BDE",
                     "unitOrgType": "ARMOR(M)"
                 },
-                "combatEffectiveness": 62
+                "currentStrength": 74,
+                "combatEffectiveness": 62,
+                "operationalStatus": "RD3",
+                "activity": "Conducting maintenance",
+                "trackNumber": "TRK-58768"
             },
             {
                 "uniqueIdentifier": "hydra.x.639301915-0.QbY_McvTgLJ1iXlRdw27VPFeZL2ZvOgZ6JVxkKdsRcfoDLos0Z0vWUiGTZfQvU0W",
                 "entityCommon":
                 {
-                    "symbolCode": "SHGPUCFHE--HRSG",
+                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>",
                     "affiliation": "H",
+                    "symbolCode": "SHGPUCFHE--HRSG",
+                    "symbolCodeVersion": "C",
                     "description": "Sample unit generated for testing.",
-                    "displayName": "125 FA BDE",
                     "geoLocation":
                     {
+                        "timeOfObservation": "2026-04-13T16:30:00Z",
                         "geometry":
                         {
                             "point":
@@ -689,18 +123,11 @@
                                     6.71318
                                 ]
                             }
-                        },
-                        "timeOfObservation": "2026-04-13T16:30:00Z"
+                        }
                     },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>"
+                    "displayName": "125 FA BDE"
                 },
-                "activity": "Conducting counter-fire operations",
                 "entityType": "UNIT",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "trackNumber": "TRK-90026",
-                "currentStrength": 75,
-                "operationalStatus": "RD1",
                 "unitIdentification":
                 {
                     "unitName": "125 FA BDE",
@@ -708,19 +135,25 @@
                     "unitEchelon": "BDE",
                     "unitOrgType": "HOW (SP)"
                 },
-                "combatEffectiveness": 64
+                "currentStrength": 75,
+                "combatEffectiveness": 64,
+                "operationalStatus": "RD1",
+                "activity": "Conducting counter-fire operations",
+                "trackNumber": "TRK-90026"
             },
             {
                 "uniqueIdentifier": "hydra.x.619898461-0.Eczwg4MUn1eY_qR6Y95awKK3zXf2ggboFF24K0CUhGrzsiskuhHtBgFB1esBDXvE",
                 "entityCommon":
                 {
+                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>",
+                    "affiliation": "H",
                     "allegiance": "RS",
                     "symbolCode": "SFGPUUM----DUSG",
-                    "affiliation": "H",
+                    "symbolCodeVersion": "C",
                     "description": "Sample unit generated for testing.",
-                    "displayName": "3-16 MI PLT",
                     "geoLocation":
                     {
+                        "timeOfObservation": "2026-04-13T16:30:00Z",
                         "geometry":
                         {
                             "point":
@@ -731,18 +164,11 @@
                                     6.47146
                                 ]
                             }
-                        },
-                        "timeOfObservation": "2026-04-13T16:30:00Z"
+                        }
                     },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='U' ownerProducer='USA'/>"
+                    "displayName": "3-16 MI PLT"
                 },
-                "activity": "Identity Crisis",
                 "entityType": "UNIT",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "trackNumber": "TRK-88188",
-                "currentStrength": 100,
-                "operationalStatus": "OPR",
                 "unitIdentification":
                 {
                     "unitName": "3-16 MI PLT",
@@ -750,18 +176,24 @@
                     "unitEchelon": "PLT",
                     "unitOrgType": "MI"
                 },
-                "combatEffectiveness": 90
+                "currentStrength": 100,
+                "combatEffectiveness": 90,
+                "operationalStatus": "OPR",
+                "activity": "Identity Crisis",
+                "trackNumber": "TRK-88188"
             },
             {
                 "uniqueIdentifier": "hydra.x.337591046-0.ZEYZvqWJP0rJVVxJZSbaGeBQR-CB6_Syj4fbfI_pl5epAopiPRaMrQ1KnxgL_9by",
                 "entityCommon":
                 {
-                    "symbolCode": "SUGPUCE----C--G",
+                    "securityClassification": "<icismlabel classification='UNCLASS' ownerProducer='USA'/>",
                     "affiliation": "UNK",
+                    "symbolCode": "SUGPUCE----C--G",
+                    "symbolCodeVersion": "C",
                     "description": "Sample unit generated for testing.",
-                    "displayName": "2-16 ENGR SECTION",
                     "geoLocation":
                     {
+                        "timeOfObservation": "2026-04-13T16:30:00Z",
                         "geometry":
                         {
                             "point":
@@ -772,18 +204,11 @@
                                     6.776263
                                 ]
                             }
-                        },
-                        "timeOfObservation": "2026-04-13T16:30:00Z"
+                        }
                     },
-                    "symbolCodeVersion": "C",
-                    "securityClassification": "<icismlabel classification='UNCLASS' ownerProducer='USA'/>"
+                    "displayName": "2-16 ENGR SECTION"
                 },
-                "activity": "Conducting mine field exploitation",
                 "entityType": "UNIT",
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "trackNumber": "TRK-94205",
-                "currentStrength": 91,
-                "operationalStatus": "OPERATIONAL",
                 "unitIdentification":
                 {
                     "unitName": "2-16 ENG SECTION",
@@ -791,57 +216,14 @@
                     "unitEchelon": "SECTION",
                     "unitOrgType": "ENG"
                 },
-                "combatEffectiveness": 86
+                "currentStrength": 91,
+                "combatEffectiveness": 86,
+                "operationalStatus": "OPERATIONAL",
+                "activity": "Conducting mine field exploitation",
+                "trackNumber": "TRK-94205"
             }
         ],
         "relationships":
-        [
-            {
-                "uniqueIdentifier": "K7mX2pNqR4wLtB9v",
-                "entityCommon":
-                {
-                    "timeliness": 3600,
-                    "entityStatus": "PRESENT",
-                    "correlationStatus": "UNPROCESSED",
-                    "securityClassification": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><icismlabel classification=\"U\" ownerProducer=\"USA\" xmlns=\"urn:us:gov:ic:ism\"/>"
-                },
-                "source":
-                {
-                    "endpointUID": "hydra.x.251602636-0.08lBC3dhlJZctUjZtJj8JFk2wS84OieXbsgTGMsLBENjB1N2UjhwMNHqK2pZ0aJe"
-                },
-                "target":
-                {
-                    "endpointUID": "hydra.x.200492875-0.eifvU2yE-oG2zHLKiLrt9E529fW-mPr1NMXZrRnc8jDqvNVFZd5EsnqnOwq1IStg"
-                },
-                "entityType": "RELATIONSHIP",
-                "transitive": false,
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "schemaVersion": "3.5.1",
-                "relationshipType": "COMMANDS OR CONTROLS"
-            },
-            {
-                "uniqueIdentifier": "K7mX2pNqR4wZrB9v",
-                "entityCommon":
-                {
-                    "timeliness": 3600,
-                    "entityStatus": "PRESENT",
-                    "correlationStatus": "UNPROCESSED",
-                    "securityClassification": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><icismlabel classification=\"U\" ownerProducer=\"USA\" xmlns=\"urn:us:gov:ic:ism\"/>"
-                },
-                "source":
-                {
-                    "endpointUID": "hydra.x.251602636-0.08lBC3dhlJZctUjZtJj8JFk2wS84OieXbsgTGMsLBENjB1N2UjhwMNHqK2pZ0aJe"
-                },
-                "target":
-                {
-                    "endpointUID": "hydra.x.639301915-0.QbY_McvTgLJ1iXlRdw27VPFeZL2ZvOgZ6JVxkKdsRcfoDLos0Z0vWUiGTZfQvU0W"
-                },
-                "entityType": "RELATIONSHIP",
-                "transitive": false,
-                "dateLastMod": "2026-07-22T19:42:27.532631+00:00",
-                "schemaVersion": "3.5.1",
-                "relationshipType": "COMMANDS OR CONTROLS"
-            }
-        ]
+        []
     }
 }
